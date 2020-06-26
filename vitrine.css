@@ -1,0 +1,48 @@
+head {
+    font-family:"Open Sans";
+    font-size: 14px;
+    text-align: center;
+}
+header {
+    font-family: "Open Sans";
+    font-size: 14px;
+    background-color: #f2f2f2;
+    color: #27d1ff; 
+    height: 150px;
+    background-image: url("texture-header.jpg");
+    font-family: "nazalization-rg.ttf";
+    font-size: 40px;   
+    vertical-align: auto; 
+    text-align: center;  
+}
+#nav {
+    text-align: right;
+    padding-right: 50px;
+    margin: 0px;
+ }   
+#nav li {
+    display: inline;
+    list-style: none;
+    background-color: #2e2f30;
+}
+#nav a {
+    display: inline-block;
+    color: #17c1ff;
+    font-weight: bold;
+}    
+h2 {
+    text-shadow: 0.1em 0.1em #e6e6e6;
+    text-align: center;
+    text-transform: uppercase;
+}
+p {
+    width: 750px;
+    text-align: center;
+    padding: 10px;
+}
+footer {
+  text-align: center;  
+}
+
+
+
